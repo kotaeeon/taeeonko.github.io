@@ -1,2 +1,2 @@
 # taeeonko.github.io
-big data analyzation
+Big Data Analyzation
